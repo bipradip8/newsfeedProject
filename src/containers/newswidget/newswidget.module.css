@@ -18,13 +18,13 @@
     font-size: 2rem;
     font-weight: 200;
     border-radius: 15px; 
-    border: 4px;
+    /* border: 4px; */
 }
 
 .search_button{
     width: 50%;
     height: 80%;
     border-radius: 15px;
-    border: 4px navy;
+    /* border: 4px navy; */
     
 }
